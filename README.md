@@ -14,7 +14,6 @@ This Spring Boot console application fetches the current weather for a list of c
 - Java 17+
 - Spring Boot
 - OpenWeatherMap API
-- Console application (no REST controller)
 
 ## 🚀 Getting Started
 
